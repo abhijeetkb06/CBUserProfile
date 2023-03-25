@@ -1,0 +1,10 @@
+com.couchbase.userprofile.test.app-jetified-annotation-experimental-1.1.0-0 /Users/abhijeetbehera/.gradle/caches/transforms-3/5de8f6329697e1a208810f12f088b491/transformed/jetified-annotation-experimental-1.1.0/res
+com.couchbase.userprofile.test.app-jetified-espresso-test-extension-1.5-1 /Users/abhijeetbehera/.gradle/caches/transforms-3/aab5b2c562d38379bec53101ef878b16/transformed/jetified-espresso-test-extension-1.5/res
+com.couchbase.userprofile.test.app-jetified-core-1.5.0-2 /Users/abhijeetbehera/.gradle/caches/transforms-3/d9c3c579a70cf5b848a945ba3e8c8d48/transformed/jetified-core-1.5.0/res
+com.couchbase.userprofile.test.app-androidTest-3 /Users/abhijeetbehera/Downloads/android-java-cblite-userprofile-standalone-main/src/app/build/generated/res/resValues/androidTest/debug
+com.couchbase.userprofile.test.app-androidTest-4 /Users/abhijeetbehera/Downloads/android-java-cblite-userprofile-standalone-main/src/app/build/generated/res/rs/androidTest/debug
+com.couchbase.userprofile.test.app-mergeDebugAndroidTestResources-5 /Users/abhijeetbehera/Downloads/android-java-cblite-userprofile-standalone-main/src/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+com.couchbase.userprofile.test.app-mergeDebugAndroidTestResources-6 /Users/abhijeetbehera/Downloads/android-java-cblite-userprofile-standalone-main/src/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+com.couchbase.userprofile.test.app-merged_res-7 /Users/abhijeetbehera/Downloads/android-java-cblite-userprofile-standalone-main/src/app/build/intermediates/merged_res/debugAndroidTest
+com.couchbase.userprofile.test.app-androidTest-8 /Users/abhijeetbehera/Downloads/android-java-cblite-userprofile-standalone-main/src/app/src/androidTest/res
+com.couchbase.userprofile.test.app-androidTestDebug-9 /Users/abhijeetbehera/Downloads/android-java-cblite-userprofile-standalone-main/src/app/src/androidTestDebug/res
