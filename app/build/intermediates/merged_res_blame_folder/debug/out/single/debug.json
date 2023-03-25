@@ -1,0 +1,98 @@
+[
+    {
+        "merged": "com.couchbase.userprofile.app-merged_res-31:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.couchbase.userprofile.app-main-33:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.couchbase.userprofile.app-merged_res-31:/layout_activity_user_profile.xml.flat",
+        "source": "com.couchbase.userprofile.app-main-33:/layout/activity_user_profile.xml"
+    },
+    {
+        "merged": "com.couchbase.userprofile.app-merged_res-31:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.couchbase.userprofile.app-pngs-26:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.couchbase.userprofile.app-merged_res-31:/mipmap-mdpi_profile_placeholder.png.flat",
+        "source": "com.couchbase.userprofile.app-main-33:/mipmap-mdpi/profile_placeholder.png"
+    },
+    {
+        "merged": "com.couchbase.userprofile.app-merged_res-31:/mipmap-hdpi_logo.png.flat",
+        "source": "com.couchbase.userprofile.app-main-33:/mipmap-hdpi/logo.png"
+    },
+    {
+        "merged": "com.couchbase.userprofile.app-merged_res-31:/mipmap-xhdpi_profile_placeholder.png.flat",
+        "source": "com.couchbase.userprofile.app-main-33:/mipmap-xhdpi/profile_placeholder.png"
+    },
+    {
+        "merged": "com.couchbase.userprofile.app-merged_res-31:/mipmap-xxhdpi_logo.png.flat",
+        "source": "com.couchbase.userprofile.app-main-33:/mipmap-xxhdpi/logo.png"
+    },
+    {
+        "merged": "com.couchbase.userprofile.app-merged_res-31:/layout_activity_login.xml.flat",
+        "source": "com.couchbase.userprofile.app-main-33:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.couchbase.userprofile.app-merged_res-31:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.couchbase.userprofile.app-main-33:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.couchbase.userprofile.app-merged_res-31:/mipmap-xhdpi_logo.png.flat",
+        "source": "com.couchbase.userprofile.app-main-33:/mipmap-xhdpi/logo.png"
+    },
+    {
+        "merged": "com.couchbase.userprofile.app-merged_res-31:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.couchbase.userprofile.app-main-33:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.couchbase.userprofile.app-merged_res-31:/mipmap-xxhdpi_profile_placeholder.png.flat",
+        "source": "com.couchbase.userprofile.app-main-33:/mipmap-xxhdpi/profile_placeholder.png"
+    },
+    {
+        "merged": "com.couchbase.userprofile.app-merged_res-31:/mipmap-hdpi_profile_placeholder.png.flat",
+        "source": "com.couchbase.userprofile.app-main-33:/mipmap-hdpi/profile_placeholder.png"
+    },
+    {
+        "merged": "com.couchbase.userprofile.app-merged_res-31:/mipmap-mdpi_logo.png.flat",
+        "source": "com.couchbase.userprofile.app-main-33:/mipmap-mdpi/logo.png"
+    },
+    {
+        "merged": "com.couchbase.userprofile.app-merged_res-31:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.couchbase.userprofile.app-main-33:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.couchbase.userprofile.app-merged_res-31:/mipmap-xxxhdpi_logo.png.flat",
+        "source": "com.couchbase.userprofile.app-main-33:/mipmap-xxxhdpi/logo.png"
+    },
+    {
+        "merged": "com.couchbase.userprofile.app-merged_res-31:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.couchbase.userprofile.app-main-33:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.couchbase.userprofile.app-merged_res-31:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.couchbase.userprofile.app-main-33:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.couchbase.userprofile.app-merged_res-31:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.couchbase.userprofile.app-main-33:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.couchbase.userprofile.app-merged_res-31:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.couchbase.userprofile.app-main-33:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.couchbase.userprofile.app-merged_res-31:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.couchbase.userprofile.app-main-33:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.couchbase.userprofile.app-merged_res-31:/mipmap-xxxhdpi_profile_placeholder.png.flat",
+        "source": "com.couchbase.userprofile.app-main-33:/mipmap-xxxhdpi/profile_placeholder.png"
+    },
+    {
+        "merged": "com.couchbase.userprofile.app-merged_res-31:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.couchbase.userprofile.app-main-33:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.couchbase.userprofile.app-merged_res-31:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.couchbase.userprofile.app-main-33:/mipmap-mdpi/ic_launcher_round.png"
+    }
+]
